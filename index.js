@@ -34,7 +34,7 @@ client.on('ready', async () => {
     .setAssetsLargeText('   ִ   ಿ  ₊   ֯   ഒ  ۪  ೀ ') //Text when you hover the Large image
     //Text when you hover the Small image
    
-    .addButton('˳໒꒰ ͚.ིྀ ݂ . ͚꒱১֯݀♡⃟ 𝒞ʟⁱᴄᵏ 𝒪ⁿ ℳᴇ ִ    ໋ ഒ', 'https://adorablefaerie.carrd.co/');
+    .addButton('˳໒꒰ ͚.ིྀ ݂ . ͚꒱১֯݀𝒞ʟⁱᴄᵏ 𝒪ⁿ ℳᴇ', 'https://adorablefaerie.carrd.co/');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
