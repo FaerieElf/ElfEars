@@ -26,9 +26,9 @@ client.on('ready', async () => {
     .setApplicationId('1116973056640942171')
     .setType('PLAYING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('⊂＿＿ u  z ᶻ╰◟◞  ͜ ◟◞╯‎') 
+    .setState('⊂＿＿ u  ⠀⠀z ᶻ╰◟◞  ͜ ◟◞╯‎') 
     .setName('ᥩིྀ ᥩིྀ  ◞ ）𓂂   ֯  ⑅╭◜◝ ͡ ◜◝╮‎‎')
-    .setDetails(`ଘ/⠀ ⠀| っ꒰ིྀ ℬᵒᵘⁿᵈ 𝒯ᵒᵍᵉᵗʰᵉʳ꒱ིྀ‎`)
+    .setDetails(`ଘ/⠀ ⠀| っ⠀⠀꒰ིྀ ℬᵒᵘⁿᵈ 𝒯ᵒᵍᵉᵗʰᵉʳ꒱ིྀ‎`)
    
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/744819281342103574/1197624569641574541/Untitled269_20240118142716.png?ex=65bbf1cc&is=65a97ccc&hm=7af6c45a92e63c35cca76720a8e5d20446818bd1b688e403c40839457476d2d0&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('   ִ   ಿ  ₊   ֯   ഒ  ۪  ೀ ') //Text when you hover the Large image
