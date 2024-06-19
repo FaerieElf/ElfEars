@@ -24,7 +24,7 @@ client.on('ready', async () => {
 
   const r = new Discord.RichPresence()
     .setApplicationId('1116973056640942171')
-    .setType('STREAMING')
+    .setType('PLAYING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
     .setState('‎ 𝒟ᵒᵗⁱⁿᵍ 𝒪ⁿ 𝒴ᵒᵘ') 
     .setName('‎ ‎𝒟ᵒᵗⁱⁿᵍ 𝒪ⁿ 𝒴ᵒᵘ')
