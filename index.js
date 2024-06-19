@@ -26,9 +26,9 @@ client.on('ready', async () => {
     .setApplicationId('1116973056640942171')
     .setType('PLAYING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('‎ 𝒟ᵒᵗⁱⁿᵍ 𝒪ⁿ 𝒴ᵒᵘ') 
-    .setName('‎ ‎𝒟ᵒᵗⁱⁿᵍ 𝒪ⁿ 𝒴ᵒᵘ')
-    .setDetails(`ઇ꒰ᥩ ིུ ˆ꒱ྀིა 𝒢ᴇⁿ𝓉ˡᵉʰℯᴀ𝓇ᵗᵉᵈ𑇓ུ  ྀི ׄ  ۪`)
+    .setState('ᥩིྀ ᥩིྀ  ◞ ）𓂂   ֯  ⑅╭◜◝ ͡ ◜◝╮‎') 
+    .setName('⊂＿＿ u  z ᶻ╰◟◞ ͜ ◟◞╯‎‎')
+    .setDetails(`ଘ/⠀ ⠀| っ꒰ིྀ ℬᵒᵘⁿᵈ 𝒯ᵒᵍᵉᵗʰᵉʳ꒱ིྀ‎`)
    
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/744819281342103574/1197624569641574541/Untitled269_20240118142716.png?ex=65bbf1cc&is=65a97ccc&hm=7af6c45a92e63c35cca76720a8e5d20446818bd1b688e403c40839457476d2d0&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('   ִ   ಿ  ₊   ֯   ഒ  ۪  ೀ ') //Text when you hover the Large image
