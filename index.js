@@ -24,7 +24,7 @@ client.on('ready', async () => {
 
   const r = new Discord.RichPresence()
     .setApplicationId('1116973056640942171')
-    .setType('WATCHING')
+    .setType('LISTENING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
     .setState('ଘ/⠀ ⠀| っ⠀  ⠀ ꒰ིྀℬᵒᵘⁿᵈ 𝒯ᵒᵍᵉᵗʰᵉʳ꒱ིྀ‎‎') 
     .setName('Where Fairies Frolick')
