@@ -26,7 +26,7 @@ client.on('ready', async () => {
     .setApplicationId('1116973056640942171')
     .setType('PLAYING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('⊂＿＿ u  z ᶻ╰◟◞ ͜ ◟◞╯‎') 
+    .setState('⊂＿＿ u  z ᶻ╰◟◞  ͜ ◟◞╯‎') 
     .setName('ᥩིྀ ᥩིྀ  ◞ ）𓂂   ֯  ⑅╭◜◝ ͡ ◜◝╮‎‎')
     .setDetails(`ଘ/⠀ ⠀| っ꒰ིྀ ℬᵒᵘⁿᵈ 𝒯ᵒᵍᵉᵗʰᵉʳ꒱ིྀ‎`)
    
