@@ -27,7 +27,7 @@ client.on('ready', async () => {
     .setType('WATCHING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
     .setState('ଘ/⠀ ⠀| っ⠀  ⠀ ꒰ིྀℬᵒᵘⁿᵈ 𝒯ᵒᵍᵉᵗʰᵉʳ꒱ིྀ‎‎') 
-    .setName(' ಿ  ₊   ֯   ഒ  ۪  ೀ ‎‎')
+    .setName(' ಿ  ₊   ֯   ഒ  ۪  ೀ‎‎')
     .setDetails(`ᥩིྀ ᥩིྀ  ◞ ）𓂂  ֯ ╭◜◝ ͡ ◜◝╮`)
    
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/853213585244815400/1252906458778177536/IMG_7277.png?ex=6673eb91&is=66729a11&hm=b81c5938b5fc714a2fcf472fca20e798dc843c9e3d999e4db0d3a1feb0e505b1&') //You can put links in tenor or discord and etc.
