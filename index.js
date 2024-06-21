@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('Where Fairies Frolick')
     .setDetails(`ᥩིྀ ᥩིྀ  ◞ ）𓂂  ֯ ╭◜◝ ͡ ◜◝╮`)
    
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/853213585244815400/1252906458778177536/IMG_7277.png?ex=6673eb91&is=66729a11&hm=b81c5938b5fc714a2fcf472fca20e798dc843c9e3d999e4db0d3a1feb0e505b1&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/853213585244815400/1252906458778177536/IMG_7277.png?ex=66768e91&is=66753d11&hm=47b47f8cda2cfcb21e4c58fb6737a9d13a55a0d52a25a131522103846892beac&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('⊂＿＿ u  ⠀⠀   z ᶻ╰ ◟◞  ͜ ◟◞ ╯‎') //Text when you hover the Large image
     //Text when you hover the Small image
    
