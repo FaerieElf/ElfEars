@@ -26,12 +26,12 @@ client.on('ready', async () => {
     .setApplicationId('1116973056640942171')
     .setType('STREAMING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
-    .setState('ଘ/⠀ ⠀| っ⠀  ⠀ ꒰ིྀℬᵒᵘⁿᵈ 𝒯ᵒᵍᵉᵗʰᵉʳ꒱ིྀ‎‎') 
+    .setState('𝄞𓈒  𓏼   ‿◟  Fuyo 𓂃◞') 
     .setName('Elves & Faeries Unite')
-    .setDetails(`ᥩིྀ ᥩིྀ  ◞ ）𓂂  ֯ ╭◜◝ ͡ ◜◝╮`)
+    .setDetails(`◞ ̩͙⏝ †∔ ྀི ◟   ♡`)
    
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/854208729041076224/1264862686899077206/Untitled192_20240722043232.png?ex=669f6aac&is=669e192c&hm=412f9f3f3105847050d77a6e39f5447bea8a5b80c5846d8c4629ce15ab6230c9&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('⊂＿＿ u  ⠀⠀   z ᶻ╰ ◟◞  ͜ ◟◞ ╯‎') //Text when you hover the Large image
+    .setAssetsLargeText('꣑ৎ  𐔌 𓏲   Soft n Sweet 𓎢') //Text when you hover the Large image
     //Text when you hover the Small image
    
     .addButton('꒰ིྀ Click Me ꒱ིྀ', 'https://adorablefaerie.carrd.co/');
