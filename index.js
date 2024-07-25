@@ -27,7 +27,7 @@ client.on('ready', async () => {
     .setType('WATCHING')
     .setURL('https://twitch.tv/developer') //Must be a youtube video link 
     .setState('ଘ/⠀ ⠀| っ⠀  ⠀ ꒰ིྀℬᵒᵘⁿᵈ 𝒯ᵒᵍᵉᵗʰᵉʳ꒱ིྀ‎‎') 
-    .setName('Where Fairies Frolick')
+    .setName('Elves & Faeries Unite')
     .setDetails(`ᥩིྀ ᥩིྀ  ◞ ）𓂂  ֯ ╭◜◝ ͡ ◜◝╮`)
    
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/854208729041076224/1264862686899077206/Untitled192_20240722043232.png?ex=669f6aac&is=669e192c&hm=412f9f3f3105847050d77a6e39f5447bea8a5b80c5846d8c4629ce15ab6230c9&') //You can put links in tenor or discord and etc.
