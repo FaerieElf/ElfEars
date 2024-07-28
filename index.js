@@ -34,8 +34,8 @@ client.on('ready', async () => {
     .setAssetsLargeText('꣑ৎ  𐔌 𓏲   Soft n Sweet 𓎢') //Text when you hover the Large image
     //Text when you hover the Small image
    
-    .addButton('My Carrd','https://adorablefaerie.carrd.co/');
-      .addButton('My Rentry','https://rentry.co/fuyomii');
+    .addButton('My Carrd','https://adorablefaerie.carrd.co/')
+.addButton('My Rentry','https://rentry.co/fuyomii');
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
 
